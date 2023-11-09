@@ -1,0 +1,48 @@
+
+body {
+    background-color: #000;
+    color: #eee;
+}
+.big {
+    font-size: 8em;
+    text-align: center;
+    margin-bottom: 0;
+}
+.smaller {
+    font-size: 0.2em;
+    margin-left: -1.5em;
+}
+.center {
+    margin: 1em auto;
+    width: 60%;
+}
+button {
+    border-radius: 0;
+    border: 0;
+    width: 46%;
+    height: 4em;
+}
+button {
+    font-size: 2em;
+    color: #fff;
+    transition: background-color 300ms;
+}
+button.green {
+    background-color: rgb(5, 82, 5);
+}
+button.green:hover {
+    background-color: rgb(79, 135, 79);
+}
+button.red {
+    background-color: rgb(86, 6, 6);
+    float: right;
+}
+button.red:hover {
+    background-color: rgb(120, 82, 82);
+}
+
+#quote { 
+    padding: 2rem;
+    text-align: center;
+    font-size: 25px;
+}
