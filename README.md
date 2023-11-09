@@ -16,6 +16,10 @@ This is a straightforward stopwatch application developed using HTML, CSS, and J
 
 - **JavaScript:** The stopwatch logic and dynamic quote display are implemented using JavaScript for seamless interactivity.
 
+## Screenshots
+![App Screenshot](assets/screenshot.png)  
+
+![App Screenshot](assets/screenshot_2.png) 
 
 ## Contribution
 
